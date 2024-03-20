@@ -136,6 +136,10 @@ body {
   color: hsl(219, 29%, 14%);
 }
 
+.jeanette .test-text-title,
+.kira .test-text-title {
+  color: hsl(217, 19%, 35%);
+}
 .jonathan {
   background-color: hsl(217, 19%, 35%);
 }

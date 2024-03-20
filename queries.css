@@ -1,8 +1,8 @@
 /********************
- BELOW 23.5*16 = 376px for mobile
+ BELOW 800px for tablets and mobile
  ****************** */
 
-@media (max-width: 23.5em) {
+@media (max-width: 50em) {
   .container {
     margin: 5rem 2.2rem;
   }

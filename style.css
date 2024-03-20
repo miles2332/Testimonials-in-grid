@@ -73,6 +73,10 @@ body {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-weight: 500;
   font-style: normal;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
@@ -80,7 +84,6 @@ body {
   /* margin-left: 15rem;
   margin-right: 15rem; */
   max-width: 114rem;
-  margin: 15rem auto;
 }
 
 .testimonials {
